@@ -239,7 +239,7 @@ class HomeScreen extends StatelessWidget {
                                 decorationColor: MvpTheme.textMuted)),
                       ),
                     ),
-                  const SizedBox(height: 8),
+                  const SizedBox(height: 70),
                 ],
               ),
             );

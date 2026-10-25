@@ -1,5 +1,5 @@
 name: mvp_minimum_viable_person
-description: "MVP — Minimum Viable Person: a survival tracker for people who can't be bothered."
+description: "MVP — Minimum Viable Person: a survival tracker that knows how long you'll survive."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

@@ -47,7 +47,7 @@ class ModelGateScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    'runs on a local open-weights brain.\nno brain, no app.',
+                    'runs on a local open-weights model.\nknows how long you\'ll survive.',
                     style: t.bodyMedium,
                   ),
                   const SizedBox(height: 12),
