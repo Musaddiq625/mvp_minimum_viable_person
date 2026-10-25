@@ -2,7 +2,9 @@
 
 *knows how long you'll survive.*
 
-<img alt="mvp — minimum viable person" src="assets/brand/hero.png" />
+Built for [Hacktoberfest 2026 — Week 3: Slow and Steady](https://dev.to/challenges/hacktoberfest-week3-2026-10-19).
+
+<img alt="mvp — minimum viable person" src="assets/brand/hero.png?v=2" />
 
 Two buttons. That's the whole app.
 
